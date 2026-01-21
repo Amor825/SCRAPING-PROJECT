@@ -1,4 +1,4 @@
-# 🕸️ Web Scraper Project (Distributed System) s
+# 🕸️ Web Scraper Project (Distributed System)
 
 > System rozproszonego scrapera stron internetowych z interfejsem webowym i architekturą kontenerową.
 
